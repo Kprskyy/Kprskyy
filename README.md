@@ -1,3 +1,4 @@
+![banner](https://user-images.githubusercontent.com/109671287/184145003-f3d5a5ae-e558-43ba-a093-4169feabcbc8.jpg)
 <h1 align="center">Hi 👋, I'm Kacper Dudek</h1>
 <h2 align="center">Frontend developer from Poland</h2>
 
