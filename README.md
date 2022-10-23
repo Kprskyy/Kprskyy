@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kacper Dudek</h1>
 <h2 align="center">Frontend developer from Poland</h2>
-                                       
+                                        
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://twitter.com/kprskyyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kprskyyy" height="30" width="40" /></a>
